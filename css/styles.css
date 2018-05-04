@@ -1,0 +1,24 @@
+.sidenav {
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 360px; /* Set the width of the sidebar */
+    position: fixed;
+    z-index: 1;
+    top: 250px;
+    left: 0;
+    background-color: blue;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.jumbotron  {
+  text-align: center;
+}
+
+.mb  {
+    margin-left: 400px;
+    padding: 0px 10px;
+}
+
+.bttn  {
+  float:inherit;
+}
