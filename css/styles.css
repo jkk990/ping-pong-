@@ -1,6 +1,7 @@
+
 .sidenav {
-    height: 100%; /* Full-height: remove this if you want "auto" height */
-    width: 360px; /* Set the width of the sidebar */
+    height: 100%;
+    width: 360px;
     position: fixed;
     z-index: 1;
     top: 250px;
@@ -8,17 +9,30 @@
     background-color: blue;
     overflow-x: hidden;
     padding-top: 20px;
+    color: yellow;
 }
 
 .jumbotron  {
   text-align: center;
+  background-image: url("../Ping_Pong_HD_57.jpg");
+  background-size: cover;
+  color: yellow;
+  margin-bottom: 0px;
 }
 
 .mb  {
-    margin-left: 400px;
-    padding: 0px 10px;
+    margin-left: 0px;
+    padding-left: 450px;
+    background-image: url("../pingpong.jpeg");
+    margin-top: 0px;
+    overflow: hidden;
+    color: green;
 }
 
 .bttn  {
   float:inherit;
+}
+
+.greensaber  {
+  color: black;
 }
