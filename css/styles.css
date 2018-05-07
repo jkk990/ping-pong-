@@ -23,10 +23,10 @@
 .mb  {
     margin-left: 0px;
     padding-left: 450px;
-    background-image: url("../pingpong.jpeg");
+    background-color: teal;
     margin-top: 0px;
     overflow: hidden;
-    color: green;
+    color: black;
 }
 
 .bttn  {
